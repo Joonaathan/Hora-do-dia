@@ -1,0 +1,51 @@
+body {
+ background: rgb(107,107,241);
+ font: normal 15pt normal;
+ 
+}
+
+h1 {
+  font-size: 35px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+header{
+    color: white;
+    text-align: center;
+
+}
+
+.iamgem{
+  border-radius:250px 250px;
+
+
+}
+
+div {
+  font:arial 40pt;
+  text-align: center;
+  padding-top: 10px;
+}
+
+img {
+  border-radius: 50%;
+  width: 550px;
+  height: 350px;
+}
+
+section{
+ background:rgb(255, 255, 255);
+ border-radius: 150px;
+ 
+ width: 1200px;
+ margin: auto;
+ box-shadow: 100px 100px 100px rgba(5, 5, 5, 0.94)
+
+}
+
+footer{
+  padding: 5px;
+  color: white;
+  text-align: center;
+  font-style: italic;
+}
